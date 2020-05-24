@@ -2,4 +2,5 @@
 contains the collection of humhub translation overrides to rename "Space" to "Community"
 
 # installation instructions
-git clone repository into protected/config/messages
+1. Navigate to humhub/protected/config/messages
+2. using the following command to clone repository: git clone git@github.com:coacting/humhub-community.git en-US

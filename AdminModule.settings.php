@@ -18,7 +18,7 @@
  */
 return [
     'Back to overview' => 'Back to overview',
-    'Dashboard' => '',
+    'Dashboard' => 'News feed',
     'Delete' => '',
     '1 month' => '',
     '1 week' => '',

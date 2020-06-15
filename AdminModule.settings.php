@@ -49,7 +49,7 @@ return [
     'Default pagination size (Entries per page)' => '',
     'Default stream content order' => '',
     'Display Name (Format)' => '',
-    'Dropdown space order' => 'Dropdown community order',
+    'Dropdown space order' => 'Dropdown coacting space order',
     'E-Mail' => '',
     'E-Mail sender address' => '',
     'E-Mail sender name' => '',

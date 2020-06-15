@@ -19,12 +19,12 @@
 return [
     'Allows the user to create private content' => '',
     'Allows the user to create public content' => '',
-    'Allows the user to invite new members to the space' => 'Allows the user to invite new members to the community',
-    'Can create hidden (private) spaces.' => 'Can create hidden (private) communities.',
-    'Can create public visible spaces. (Listed in directory)' => 'Can create public visible communities. (Listed in directory)',
+    'Allows the user to invite new members to the space' => 'Allows the user to invite new members to the coacting space',
+    'Can create hidden (private) spaces.' => 'Can create hidden (private) coacting spaces.',
+    'Can create public visible spaces. (Listed in directory)' => 'Can create public visible coacting spaces. (Listed in directory)',
     'Create private content' => '',
-    'Create private space' => 'Create private community',
+    'Create private space' => 'Create private coacting space',
     'Create public content' => '',
-    'Create public space' => 'Create public community',
+    'Create public space' => 'Create public coacting space',
     'Invite users' => '',
 ];

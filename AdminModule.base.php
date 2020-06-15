@@ -19,7 +19,7 @@
 return [
     'Back to overview' => '',
     'Settings' => '',
-    'Spaces' => 'Communities',
+    'Spaces' => 'Coacting Spaces',
     '<strong>Administration</strong> menu' => '',
     '<strong>Module </strong> administration' => '',
     '<strong>Warning</strong> incomplete setup!' => '',

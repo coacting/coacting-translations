@@ -18,7 +18,7 @@
  */
 return [
     'Close' => '',
-    'Spaces' => 'Communities',
+    'Spaces' => 'Coacting Spaces',
     '%moduleName% - Set as default module' => '',
     '<strong>Module</strong> details' => '',
     'Activated' => '',
@@ -31,7 +31,7 @@ return [
     'Disable' => '',
     'Enable' => '',
     'Enable module...' => '',
-    'Here you can choose whether or not a module should be automatically activated on a space or user profile. If the module should be activated, choose "always activated".' => 'Here you can choose whether or not a module should be automatically activated on a community or user profile. If the module should be activated, choose "always activated".',
+    'Here you can choose whether or not a module should be automatically activated on a space or user profile. If the module should be activated, choose "always activated".' => 'Here you can choose whether or not a module should be automatically activated on a coacting space or user profile. If the module should be activated, choose "always activated".',
     'Legacy' => '',
     'Module path %path% is not writeable!' => '',
     'Modules extend the functionality of HumHub. Here you can install and manage modules from the HumHub Marketplace.' => '',

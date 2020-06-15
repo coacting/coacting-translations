@@ -17,12 +17,12 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Space has been archived' => 'Community has been archived',
-    'Space has been unarchived' => 'Community has been unarchived',
-    'Space member joined' => 'Community member joined',
-    'Space member left' => 'Community member left',
-    'Whenever a member leaves one of your spaces.' => 'Whenever a member leaves one of your communities.',
-    'Whenever a new member joined one of your spaces.' => 'Whenever a new member joined one of your communities.',
-    'Whenever a space is archived.' => 'Whenever a community is archived.',
-    'Whenever a space is unarchived.' => 'Whenever a community is unarchived.',
+    'Space has been archived' => 'Coacting Space has been archived',
+    'Space has been unarchived' => 'Coacting Space has been unarchived',
+    'Space member joined' => 'Coacting Space member joined',
+    'Space member left' => 'Coacting Space member left',
+    'Whenever a member leaves one of your spaces.' => 'Whenever a member leaves one of your coacting spaces.',
+    'Whenever a new member joined one of your spaces.' => 'Whenever a new member joined one of your coacting spaces.',
+    'Whenever a space is archived.' => 'Whenever a coacting space is archived.',
+    'Whenever a space is unarchived.' => 'Whenever a coacting space is unarchived.',
 ];
